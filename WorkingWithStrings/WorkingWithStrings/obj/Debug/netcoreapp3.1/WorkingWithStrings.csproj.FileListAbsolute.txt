@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.deps.json
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.dll
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.pdb
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.dll
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.pdb
+/Users/admin/Projects/Csharp/DevU/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.genruntimeconfig.cache
