@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses.deps.json
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses.dll
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/bin/Debug/netcoreapp3.1/SimpleClasses.pdb
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.dll
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.pdb
+/Users/admin/Projects/Csharp/DevU/SimpleClasses/SimpleClasses/obj/Debug/netcoreapp3.1/SimpleClasses.genruntimeconfig.cache
