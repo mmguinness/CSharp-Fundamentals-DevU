@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.deps.json
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.dll
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.pdb
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.dll
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.pdb
+/Users/admin/Projects/Csharp/DevU/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.genruntimeconfig.cache

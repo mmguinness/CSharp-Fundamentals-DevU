@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{E900221B-F21E-4BCF-BB0B-37BAB34139E7}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ObjectLifetime FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ForIteration/ForIteration/Program.cs" line="11" column="19" endLine="11" endColumn="20" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifetime/Program.cs">
+    <Files>
+      <File FileName="ObjectLifetime/Program.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectLifetime" expanded="True">
+            <Node name="ObjectLifetime" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ObjectLifetime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
