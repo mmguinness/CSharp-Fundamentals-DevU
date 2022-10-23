@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.deps.json
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.dll
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.pdb
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.dll
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.pdb
+/Users/admin/Projects/Csharp/DevU/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.genruntimeconfig.cache

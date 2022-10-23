@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.deps.json
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.dll
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.pdb
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.dll
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.pdb
+/Users/admin/Projects/Csharp/DevU/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.genruntimeconfig.cache

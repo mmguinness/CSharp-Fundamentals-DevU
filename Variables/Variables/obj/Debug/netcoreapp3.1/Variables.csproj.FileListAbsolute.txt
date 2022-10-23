@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/admin/Projects/Csharp/DevU/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache

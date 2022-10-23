@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.deps.json
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.dll
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.pdb
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.dll
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.pdb
+/Users/admin/Projects/Csharp/DevU/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.genruntimeconfig.cache

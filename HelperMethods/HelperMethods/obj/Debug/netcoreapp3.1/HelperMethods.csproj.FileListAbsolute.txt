@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.deps.json
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.dll
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.pdb
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.dll
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.pdb
+/Users/admin/Projects/Csharp/DevU/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.genruntimeconfig.cache
