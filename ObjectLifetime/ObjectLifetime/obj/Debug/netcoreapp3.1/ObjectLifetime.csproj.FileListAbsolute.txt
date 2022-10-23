@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.deps.json
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.dll
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.pdb
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.dll
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.pdb
+/Users/admin/Projects/Csharp/DevU/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.genruntimeconfig.cache
