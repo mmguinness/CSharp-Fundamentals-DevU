@@ -1,0 +1,14 @@
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes.deps.json
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes.runtimeconfig.json
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes.runtimeconfig.dev.json
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes.dll
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp3.1/DatesAndTimes.pdb
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.csproj.AssemblyReference.cache
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.AssemblyInfo.cs
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.dll
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.pdb
+/Users/admin/Projects/Csharp/DevU/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp3.1/DatesAndTimes.genruntimeconfig.cache
